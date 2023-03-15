@@ -19,3 +19,4 @@ hello git!
 hello git!
 hello git!
 hello git! fix1
+hello git! hot-fix test
